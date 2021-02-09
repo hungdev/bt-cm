@@ -1,0 +1,11 @@
+.basic-info-container {
+
+}
+.text-add-src-active {
+  color: green;
+  cursor: pointer;
+}
+.text-add-src-disable {
+  color: grey;
+  cursor: not-allowed;
+}
